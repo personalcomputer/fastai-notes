@@ -9,7 +9,7 @@ Discussion session location TBD.
 - Meeting at 10am-12pm Saturdays to discuss/work on homework. Expectation is half or more of homework should be done by this time.
 
 ### Attendance Policy
-- If not in attendance, class will proceed, on that student to watch lecture on their own time.
+- If not in attendance, class will proceed, it is the responsibility of the missing student to watch the lecture on their own time. If student is late, the class will wait for all students to arrive before starting lecture.
 
 ### Class Schedule
 Course Kickoff/Intro - April 4
