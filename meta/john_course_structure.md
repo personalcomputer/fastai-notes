@@ -6,7 +6,7 @@ Discussion session location TBD.
 - Meeting at 7-9pm Fridays to watch lecture, and discuss initial thoughts/questions.
 
 ### Discussion Session Times
-- Meeting at 10am-12pm Saturdays to discuss/work on homework. Expectation is half or more of homework should be done by this time.
+- Meeting at 10am-12pm Saturdays to discuss/work on homework. Expectation is half or more of homework should be done by this time, but there is no requirement and it is fine if very little of the homework is completed, especially if the student is stuck and needs help.
 
 ### Attendance Policy
 - If not in attendance, class will proceed, it is the responsibility of the missing student to watch the lecture on their own time. If student is late, the class will wait for all students to arrive before starting lecture.
