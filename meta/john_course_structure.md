@@ -1,3 +1,7 @@
+### Links
+- https://github.com/fastai/courses
+- http://course.fast.ai/
+
 ### Class Location
 All classes (lectures) will be at Cyan room.
 Discussion session location TBD.
