@@ -75,7 +75,7 @@ bcolz is a small poorly known library for binary serialization and serializing o
 
 
 ### VGG16 layers
-
+```
 lambda_1 (Lambda)
 zeropadding2d_1 (ZeroPadding2D)
 convolution2d_1 (Convolution2D)
@@ -114,5 +114,5 @@ dropout_1 (Dropout)
 dense_3 (Dense)
 dropout_2 (Dropout)
 dense_4 (Dense)
-
+```
 
